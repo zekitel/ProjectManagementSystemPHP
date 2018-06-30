@@ -1,0 +1,97 @@
+
+
+#managerTable{
+	width:400px; 
+	height:370px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+ 	border-style: solid;
+}
+#projectTable{
+	width:400px; 
+	height:370px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+	 border-style: solid;
+
+}
+#employeeTable{
+	width:400px; 
+	height:370px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+	 border-style: solid;
+}
+#addManager{
+	width:160px; 
+	height:370px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+	 border-style: solid;
+}
+#editManager{
+	width:160px; 
+	height:370px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+	 border-style: solid;
+}
+#delete{
+	width:160; 
+	height:370px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+	 border-style: solid;
+}#assignProject{
+	width:160px; 
+	height:370px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+	 border-style: solid;
+}#createProject{
+	width:160px; 
+	height:370px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+	 border-style: solid;
+}#editProject{
+	width:160px; 
+	height:370px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+	 border-style: solid;
+}#createEmployee{
+	width:160px; 
+	height:370px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+	 border-style: solid;
+}#editEmployee{
+	width:160px; 
+	height:370px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+	 border-style: solid;
+}

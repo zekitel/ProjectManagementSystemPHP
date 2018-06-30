@@ -1,0 +1,68 @@
+#employeeTable{
+	width:700px; 
+	height:300px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+ 	border-style: solid;
+}
+#projectTable{
+	width:700px; 
+	height:300px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+ 	border-style: solid;
+}
+#taskTable{
+	width:700px; 
+	height:300px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+	 border-style: solid;
+
+}
+
+#createTask{
+	width:160px; 
+	height:300px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+	 border-style: solid;
+}
+
+#deleteTask{
+	width:160px; 
+	height:300px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+	 border-style: solid;
+}
+
+#editTask{
+	width:160px; 
+	height:370px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+	 border-style: solid;
+}
+
+#assignTask{
+	width:160px; 
+	height:370px;
+	margin:0 auto;
+	float:left; 
+	padding:10px;
+	background-color:lightblue;
+	 border-style: solid;
+}
